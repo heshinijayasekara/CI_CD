@@ -104,7 +104,7 @@ python app.py
     setting>actions>runner>new self hosted runner> choose os> then run command one by one
 
 
-# 7. Setup github secrets:
+# 7. Setup github secrets: (secrets> action>new repo)
 
     AWS_ACCESS_KEY_ID=
 
